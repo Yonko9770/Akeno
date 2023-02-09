@@ -17,11 +17,11 @@ class Config(object):
     API_ID = "awoo"  # integer value, dont use ""
     API_HASH = "awoo"
     TOKEN = "awoo"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 5030730429 # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "ishikki_akabane"
-    SUPPORT_CHAT = 'suppporttxd'  #Your own group for support, do not add the @
-    JOIN_LOGGER = -123456789  #Prints any new group the bot is added to, prints just the name and ID.
-    EVENT_LOGS = -123446789  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
+    OWNER_ID = 5700727404 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "YeahKakashi"
+    SUPPORT_CHAT = 'YeahAkenoBotsupport'  #Your own group for support, do not add the @
+    JOIN_LOGGER = -1001791449328  #Prints any new group the bot is added to, prints just the name and ID.
+    EVENT_LOGS = -1001791449328  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     #RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'something://somewhat:user@hosturl:port/databasename'  # needed for any database modules
