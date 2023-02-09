@@ -1,5 +1,5 @@
 # Akeno
-An anime themed telegram group management bot based on the anime Rent a Girlfriend
+An anime themed telegram group management bot.
 # 𝓐𝓴𝓮𝓷𝓸 
 
 <img src="https://telegra.ph/file/208286704256a7a72992c.jpg" align="center"/>
