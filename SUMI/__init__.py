@@ -99,15 +99,15 @@ if ENV:
     WALL_API = os.environ.get('WALL_API', None)
     SUPPORT_CHAT = os.environ.get('SUPPORT_CHAT', "suppporttxd")
     SPAMWATCH_SUPPORT_CHAT = os.environ.get('SPAMWATCH_SUPPORT_CHAT', "suppporttxd")
-    SPAMWATCH_API = os.environ.get('SPAMWATCH_API', "XChWQMRDLpKVqoirR_cMDqlrGwiTn1bY1pYhTyGeVv7~T2gVG1JRyZFvlZGq4gtG")
+    SPAMWATCH_API = os.environ.get('SPAMWATCH_API', "230wlIgows~cZVoKnZJwF4hVc1ihOA24hfWpEQfGx87o8GDtAPr_5Osi3DLtAW_k")
     BANCODES = os.environ.get("BANCODES", "You want me to ban the person who created my codes! ARE YOU CRAZY!!!!")
-    REPOSITORY = os.environ.get("REPOSITORY", "https://github.com/Ishikki-Akabane/SUMI")
+    REPOSITORY = os.environ.get("REPOSITORY", "https://github.com/Yonko9770/Akeno")
     IBM_WATSON_CRED_URL = os.environ.get("IBM_WATSON_CRED_URL", None)
     IBM_WATSON_CRED_PASSWORD = os.environ.get("IBM_WATSON_CRED_PASSWORD", None)
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
     HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
-    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "IshikkiAkabane")
+    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "YeahKakashi")
     HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
     OPENWEATHERMAP_ID = os.environ.get("OPENWEATHERMAP_ID", "") # From:- https://openweathermap.org/api
     LOG_GROUP_ID = os.environ.get('LOG_GROUP_ID', None)
@@ -231,7 +231,7 @@ else:
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(5030730429)
+DEV_USERS.add(5700727404)
 
 if not SPAMWATCH_API:
     sw = None
